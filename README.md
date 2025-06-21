@@ -1,1 +1,2 @@
-# Projeto da disciplina Programação de computadores - jogo 'Termo'
+# Termo
+## Projeto da disciplina Programação de computadores
